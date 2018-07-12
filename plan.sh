@@ -1,4 +1,4 @@
-pkg_origin=ericcalabretta
+pkg_origin=eric
 pkg_name=np-mongodb
 pkg_version=3.2.9
 pkg_description="Mongodb for National-Parks app"
